@@ -37,6 +37,22 @@ Django-based platform for managing fire detection projects, zones, cameras, and 
 
 ---
 
+
+### 🏗️ BuildSmart
+Construction management platform with AI-assisted cost estimation and project tracking.
+
+**Highlights**
+- Django web platform for construction project management
+- AI/ML module for construction cost estimation
+- Attendance, workers, projects, services, reviews, and user management modules
+- Tunisia-focused construction dataset and trained model artifacts
+- Generated project/report documents included
+
+**Tech stack:** Python, Django, Machine Learning, Pandas, SQLite, HTML, CSS  
+🔗 Repository: [buildsmart](https://github.com/Yomnahaouel/buildsmart)
+
+---
+
 ### 🎫 Smart Ticket / Smart Support
 Support ticket management application designed to organize and manage customer or internal support requests.
 
@@ -71,6 +87,7 @@ Git · GitHub · Docker · Streamlit · SQLite · API testing · Documentation
 
 - Machine learning applications with real interfaces
 - Web dashboards and management systems
+- Construction and project-management platforms
 - API-based applications
 - Data analysis and prediction systems
 - Academic and portfolio-ready software projects
