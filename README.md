@@ -1,113 +1,123 @@
-# Hi, I'm Yomna Haouel 👋
+# Bonjour, je suis Yomna Haouel 👋
 
-🎓 Computer Science / Data Science student building practical full-stack, AI, and data-driven applications.  
-💡 I like projects that connect machine learning, web platforms, and real-world decision support.
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 Credit Default Risk Prediction System
-Machine learning system for predicting loan default risk using the Home Credit Default Risk dataset.
-
-**Highlights**
-- End-to-end ML pipeline: data processing, feature engineering, model training, evaluation
-- FastAPI backend for predictions
-- Streamlit dashboard for interactive use
-- SHAP feature importance and explainability
-- Docker-ready deployment
-
-**Tech stack:** Python, Pandas, Scikit-learn, CatBoost, FastAPI, Streamlit, Docker  
-🔗 Repository: [systeme-prediction-defaut-paiement](https://github.com/Yomnahaouel/systeme-prediction-defaut-paiement)
+🎓 Étudiante en **Data Science & Intelligence Artificielle**  
+💻 Passionnée par le **Machine Learning**, la **Computer Vision** et le développement d’applications intelligentes  
+🚀 J’aime créer des projets qui combinent IA, analyse de données, APIs et interfaces web pour résoudre des problèmes concrets.
 
 ---
 
-### 🔥 Fire Detection System
-Django-based platform for managing fire detection projects, zones, cameras, and role-based users.
+## À propos de moi
 
-**Highlights**
-- Role-based access: Admin, Supervisor, Agent
-- Project, zone, and camera management
-- RTSP camera support
-- YOLO-based fire detection architecture
-- Authentication and activation workflow
+Je suis étudiante en 2ème année cycle ingénieur en **Data Science & Intelligence Artificielle** à Tek-Up University.  
+Je m’intéresse particulièrement aux systèmes de prédiction, aux plateformes web intelligentes et aux solutions basées sur l’IA pour l’aide à la décision.
 
-**Tech stack:** Python, Django, SQLite, Bootstrap, YOLO, RTSP  
-🔗 Repository: [-firedetection](https://github.com/Yomnahaouel/-firedetection)
+Je travaille principalement avec **Python**, **Django**, **FastAPI**, **Machine Learning**, **Computer Vision**, **Docker** et des outils de data science comme **Pandas**, **NumPy** et **Scikit-learn**.
 
 ---
 
+## Projets principaux
 
-### 🏗️ BuildSmart
-Construction management platform with AI-assisted cost estimation and project tracking.
+### Système de prédiction de défaut de paiement
 
-**Highlights**
-- Django web platform for construction project management
-- AI/ML module for construction cost estimation
-- Attendance, workers, projects, services, reviews, and user management modules
-- Tunisia-focused construction dataset and trained model artifacts
-- Generated project/report documents included
+Projet de **credit scoring** permettant de prédire le risque de défaut de paiement à partir de données financières.
 
-**Tech stack:** Python, Django, Machine Learning, Pandas, SQLite, HTML, CSS  
-🔗 Repository: [buildsmart](https://github.com/Yomnahaouel/buildsmart)
+**Points clés :**
+- Pipeline Machine Learning end-to-end : préparation des données, feature engineering, entraînement et évaluation des modèles
+- Comparaison de plusieurs modèles de classification
+- API de prédiction avec **FastAPI**
+- Dashboard interactif avec **Streamlit**
+- Explicabilité du modèle avec **SHAP**
+- Meilleur modèle : **CatBoost, AUC 0.786**
 
----
-
-### 🎫 Smart Ticket / Smart Support
-Support ticket management application designed to organize and manage customer or internal support requests.
-
-**Highlights**
-- ASP.NET-based support platform
-- Docker deployment setup
-- Clean layered architecture
-- Environment-based configuration for safer deployment
-
-**Tech stack:** C#, ASP.NET Core, Docker, SQL Server / database-backed architecture  
-🔗 Repository: [Smart-Ticket](https://github.com/Yomnahaouel/Smart-Ticket)
+**Technologies :** Python, CatBoost, Scikit-learn, FastAPI, Streamlit, Docker, SHAP  
+**Repository :** [systeme-prediction-defaut-paiement](https://github.com/Yomnahaouel/systeme-prediction-defaut-paiement)
 
 ---
 
-## 🛠️ Technical Skills
+### Fire Detection – Système de surveillance temps réel
 
-**Languages**  
-Python · C# · SQL · JavaScript · HTML · CSS
+Application de **Computer Vision** pour la surveillance de zones via des caméras RTSP.
 
-**Backend & Web**  
-Django · FastAPI · ASP.NET Core · REST APIs · Authentication · Role-based access control
+**Points clés :**
+- Application Django pour gérer les projets, zones et caméras
+- Gestion des utilisateurs avec contrôle d’accès par rôles
+- Intégration de **YOLO/OpenCV** pour la détection sur flux vidéo
+- Affichage des flux en streaming temps réel
 
-**Machine Learning & Data**  
-Pandas · NumPy · Scikit-learn · CatBoost · XGBoost · LightGBM · SHAP · Feature Engineering
-
-**Tools & Deployment**  
-Git · GitHub · Docker · Streamlit · SQLite · API testing · Documentation
-
----
-
-## 📌 What I Build
-
-- Machine learning applications with real interfaces
-- Web dashboards and management systems
-- Construction and project-management platforms
-- API-based applications
-- Data analysis and prediction systems
-- Academic and portfolio-ready software projects
+**Technologies :** Python, Django, YOLO, OpenCV, RTSP  
+**Repository :** [-firedetection](https://github.com/Yomnahaouel/-firedetection)
 
 ---
 
-## 📊 GitHub Stats
+### SmartSupport Help Desk – Gestion de tickets IT augmentée par l’IA
 
-![Yomna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomnahaouel&show_icons=true&theme=tokyonight)
+Application d’entreprise pour la gestion intelligente des tickets IT.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomnahaouel&layout=compact&theme=tokyonight)
+**Points clés :**
+- Création et gestion des tickets IT
+- Catégorisation automatique des tickets
+- Détection automatique des priorités avec **Ollama AI**
+- Attribution intelligente des tickets
+- Contrôle d’accès basé sur les rôles
+- Journal d’audit et déploiement avec Docker
+
+**Technologies :** C#, ASP.NET Core, SQL Server, Docker, Ollama AI  
+**Repository :** [Smart-Ticket](https://github.com/Yomnahaouel/Smart-Ticket)
 
 ---
 
-## 📫 Contact
+### BuildSmart – Plateforme de gestion de chantier augmentée par l’IA
 
-- GitHub: [@Yomnahaouel](https://github.com/Yomnahaouel)
-- LinkedIn: Add your LinkedIn link here
-- Email: Add your professional email here
+Plateforme web pour la gestion de chantiers avec estimation intelligente des coûts et durées.
+
+**Points clés :**
+- Gestion des chantiers, travailleurs, services et avis clients
+- Suivi des présences
+- Devis prédictif basé sur l’IA
+- Estimation des coûts et durées des projets
+
+**Technologies :** Python, Django, Machine Learning, HTML/CSS  
+**Repository :** [buildsmart](https://github.com/Yomnahaouel/buildsmart)
 
 ---
 
-⭐ Always improving, always building.
+## Compétences techniques
+
+**Langages :** Python, R, JavaScript, Java, C#, C  
+**Data Science & ML :** NumPy, Pandas, Matplotlib, Scikit-learn  
+**Frameworks IA :** PyTorch, TensorFlow  
+**Développement web :** React, Express.js, Django, FastAPI, ASP.NET Core  
+**APIs :** RESTful APIs, intégration d’API  
+**Bases de données :** SQL, PL/SQL, MySQL, PostgreSQL, MongoDB, SQL Server  
+**BI & Outils :** Power BI  
+**DevOps :** Git, Docker
+
+---
+
+## Ce que j’aime construire
+
+- Des applications Machine Learning avec interface utilisateur
+- Des dashboards interactifs et APIs de prédiction
+- Des plateformes web intelligentes
+- Des systèmes de gestion avec IA intégrée
+- Des projets Data Science orientés problèmes réels
+
+---
+
+## GitHub Stats
+
+![Yomna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomnahaouel&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomnahaouel&layout=compact&theme=default)
+
+---
+
+## Contact
+
+- **GitHub :** [@Yomnahaouel](https://github.com/Yomnahaouel)
+- **Email :** haouelyomna111@gmail.com
+- **LinkedIn :** à ajouter
+
+---
+
+⭐ Toujours en apprentissage, toujours en construction.
