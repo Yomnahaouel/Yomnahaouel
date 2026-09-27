@@ -108,7 +108,7 @@ Plateforme web pour la gestion de chantiers avec estimation intelligente des co√
 
 - **GitHub :** [@Yomnahaouel](https://github.com/Yomnahaouel)
 - **Email :** haouelyomna111@gmail.com
-- **LinkedIn :** [(https://www.linkedin.com/in/yomna-haouel-29a394290/)]
+- **LinkedIn :** https://www.linkedin.com/in/yomna-haouel-29a394290/
 
 ---
 
