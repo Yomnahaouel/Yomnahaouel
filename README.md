@@ -104,19 +104,11 @@ Plateforme web pour la gestion de chantiers avec estimation intelligente des co√
 
 ---
 
-## GitHub Stats
-
-![Yomna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomnahaouel&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomnahaouel&layout=compact&theme=default)
-
----
-
 ## Contact
 
 - **GitHub :** [@Yomnahaouel](https://github.com/Yomnahaouel)
 - **Email :** haouelyomna111@gmail.com
-- **LinkedIn :** √† ajouter
+- **LinkedIn :** [(https://www.linkedin.com/in/yomna-haouel-29a394290/)]
 
 ---
 
